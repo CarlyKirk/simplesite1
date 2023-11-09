@@ -10,17 +10,17 @@
 --------------------------------------------------------------*/
 body {
   background: #FFF;
-  color: #978DDF;
+  color: #605F68;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: #978DDF;
+  color: #605F68;
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
-  color: #978DDF;
+  color: #605F68;
   outline: none;
   text-decoration: none;
 }
